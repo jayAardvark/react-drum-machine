@@ -71,3 +71,9 @@
 #snare_drum_2 {
   color: white;
 }
+#details {
+  width: 600px;
+  margin: auto;
+  text-align: left;
+  padding-top: 10px;
+}
