@@ -1,0 +1,73 @@
+
+#containing-div {
+  background-image: 
+    linear-gradient(
+    to bottom right,
+    #0099bb, #ffaaaa);
+/*background-image: 
+    linear-gradient(
+    to bottom right,
+    black, grey);*/
+  width: 600px;
+  height: 500px;
+  margin: auto;
+  margin-top: 70px;
+ 
+}
+#target-render {
+  position: relative;
+  margin: auto;
+  padding: 100px 0;
+}
+#testSection{
+  color: red;
+}
+#show-display {
+  width: 450px;
+  margin: auto;
+  
+  opacity: 0.6;
+  text-align: center;
+  border-radius: 5px;
+  
+  background-color: white;
+  box-shadow: 2px 2px 3px 1px #444;
+
+}
+#keyLayout{
+  display: flex;
+  justify-content: center;
+  background: white;
+
+  opacity: 0.6;
+  box-shadow: 3px 3px 5px 1px #444;
+
+  flex-wrap: wrap;
+  width: 450px;
+  
+  /*margin-left:auto;
+  margin-right: auto;*/
+  margin: auto;
+  padding: 5px;
+  border-radius: 15px;
+  margin-top: 40px;
+}
+.drum-pad{
+   background-image: 
+    linear-gradient(
+    to  right,
+    #0099bb, #ffaaaa);
+  opacity: 0.9;
+  width: 30%;
+  /*height: 50px;*/
+  height: 5em;
+  margin: 5px;
+  box-shadow: 1px 2px 2px 2px #222;
+}
+
+.row-1{
+
+}
+#snare_drum_2 {
+  color: white;
+}
